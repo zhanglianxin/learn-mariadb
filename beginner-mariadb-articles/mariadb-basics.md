@@ -30,7 +30,7 @@ CREATE TABLE authors (
 
 ## Minor Items
 
-SQL statements end with a semi-colon (or a `\G`). You can spread an SQL
+SQL statements end with a semi-colon (or a `\g`). You can spread an SQL
 statement over multiple lines. However, it won't be passed to the server by the
 client until you terminate it with a semi-colon and hit [Enter]. To cancel an
 SQL statement once you've started typing it, enter `\c` and press [Enter].
