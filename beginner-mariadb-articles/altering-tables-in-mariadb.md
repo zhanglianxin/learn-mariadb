@@ -215,8 +215,9 @@ until more data is added to the table.
 
 > **ORDER BY ignored as there is a user-defined clustered index in the table**
 >
-> [Stack Overflow][stackoverflow]
-> [Row Order for MyISAM Tables][mysqlrefman]
+> 0. [Stack Overflow][stackoverflow]
+>
+> 1. [Row Order for MyISAM Tables][mysqlrefman]
 
 [stackoverflow]: https://stackoverflow.com/a/29781290/5631625 ''
 [mysqlrefman]: https://dev.mysql.com/doc/refman/5.7/en/alter-table.html 'Row Order for MyISAM Tables'
