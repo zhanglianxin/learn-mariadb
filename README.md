@@ -7,5 +7,3 @@
 ## [Basic MariaDB Articles](./basic-mariadb-articles/)
 
 ## [Intermediate MariaDB Articles](./intermediate-mariadb-articles/)
-
-## [Advanced MariaDB Articles](./advanced-mariadb-articles/)
